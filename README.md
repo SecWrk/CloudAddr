@@ -4,3 +4,5 @@ CloudAddr is a application to get list of public cloud providers (such as AWS, A
 # Supported Cloud Providers
 - AWS
 - Google Cloud Platform (GCP)
+
+## Repo moved to: https://github.com/hyperxpro/CloudAddr
